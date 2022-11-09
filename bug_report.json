@@ -11,7 +11,7 @@
    "Environment":"Conditions Device Type/OS/Browser/Software version/Connection Strength/Screen size/Zoom level/Pixel ratio etc",
    "Visual Proof":"Screenshots, videos, text, logs of Bug",
    "Reporter name": "Your own",
-   "Assigned person": "The developer/Testlead etc"
+   "Status": "SDLS status Opened/In Progress/Fixed or Ready for check/Reopened/Closed/Deffered/Rejected"
  }
 }
    
